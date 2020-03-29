@@ -1,0 +1,7 @@
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\bin\Debug\132-Exercicio_heranca-polimorfismo.exe.config
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\bin\Debug\132-Exercicio_heranca-polimorfismo.exe
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\bin\Debug\132-Exercicio_heranca-polimorfismo.pdb
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\obj\Debug\132-Exercicio_heranca-polimorfismo.csprojAssemblyReference.cache
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\obj\Debug\132-Exercicio_heranca-polimorfismo.csproj.CoreCompileInputs.cache
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\obj\Debug\132-Exercicio_heranca-polimorfismo.exe
+D:\Udemy\Curso C#\10 - Herança e Polimorfismo\132-Exercicio_heranca-polimorfismo\132-Exercicio_heranca-polimorfismo\obj\Debug\132-Exercicio_heranca-polimorfismo.pdb
